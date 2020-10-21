@@ -2,9 +2,12 @@
 Final project for CSC 111. (Collaborated with Meihui Chen and Hana Hirano)
 How to run the game：
 ## 1. Selecting pet 
-    Difficult <———————-——> Easy
-    Dog ———— Cat ————— Squirrel 
-	Three buttons with the body color of the pets shown below each pet, select the pet by clicking on the button below the pet.
+Each pet is associated with a different game difficulty (the more difficult, the faster the pet's energy drops)
+
+Difficult <———————-——> Easy
+Dog ———— Cat ————— Squirrel 
+
+Three buttons with the body color of the pets shown below each pet, select the pet by clicking on the button below the pet.
 
 ## 2. Energy
 The energy of the pet decreases by time. You are given full 100 energy points in the beginning. You can increase it by feeding the pet you selected.
