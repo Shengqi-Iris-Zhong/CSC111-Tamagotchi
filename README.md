@@ -1,6 +1,11 @@
 # CSC111-Tamagotchi
 Final project for CSC 111. (Collaborated with Meihui Chen and Hana Hirano in Fall 2019)
-## How to run the game：
+## How to run the game
+1. Download `project.py`, `mygraphics.py`, and `graphics.py`. Put them in the same folder.
+2. Run `graphics.py` first.
+3. Open `project.py` and run the file. Enjoy!
+
+## Game Feature
 ### 1. Selecting pet 
 Each pet is associated with a different game difficulty (the more difficult, the faster the pet's energy drops)
 
