@@ -4,7 +4,7 @@ How to run the game：
 ## 1. Selecting pet 
 Each pet is associated with a different game difficulty (the more difficult, the faster the pet's energy drops)
 
-Difficult <———————-——> Easy
+Difficult <———————-——> Easy \
 Dog ———— Cat ————— Squirrel 
 
 Three buttons with the body color of the pets shown below each pet, select the pet by clicking on the button below the pet.
